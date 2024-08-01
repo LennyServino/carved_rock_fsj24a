@@ -1,0 +1,8 @@
+.banner-img {
+    background-image: url('/img/shutterstock_116403520.jpg');
+    height: 50dvh;
+    width: 100%;
+    max-width: 100%;
+    background-size: cover;
+    background-position: 60% 25%;
+}
